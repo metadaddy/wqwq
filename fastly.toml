@@ -5,7 +5,7 @@ description = "Demo of Fastly Compute@Edge with Backblaze B2"
 language = "rust"
 manifest_version = 2
 name = "fastly-compute-b2-demo"
-service_id = ""
+service_id = "6iOQUw7QgzX3yPHxqPBJrW"
 
 # Edit the backends below to match your B2 endpoints
 
